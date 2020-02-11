@@ -1,2 +1,3 @@
-# python-challenge
-Python Challenge
+#Python Challenge
+
+This was a good assignment.
